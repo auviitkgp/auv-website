@@ -12,7 +12,6 @@
         
         <link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
         <link rel="stylesheet" type="text/css" href="../css/component.css" />
-        <link rel="stylesheet" type="text/css" href="../css/profiles.css">
 
         <script src="../js/modernizr.custom.js"></script>
         <script src="../js/jquery.js"></script>
