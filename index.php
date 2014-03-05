@@ -54,35 +54,69 @@
         height: 1.5em;
     }
 
-        .navbar-brand { max-height: 40px; overflow: visible;padding-top: 0;padding-bottom: 0; margin-left:10px;}
+    .navbar-brand { max-height: 40px; overflow: visible;padding-top: 0;padding-bottom: 0; margin-left:10px;}
     </style>
 </head>
 
 <body id="page">
     <?php include_once('navbar.php'); ?>
-    <div id="wrap">
+    <div id="wrap" class="container">
         <div class="container">
             <div class="row" style="margin-top:60px;">
-                <div class="col-md-1">
-                          <!--div id="twitter" style="float:left;margin-left:-105px;background-color:#8c1515;color:#fff;">
-
-                              <a class="twitter-timeline" href="https://twitter.com/IITKgp" width="250" height="600" data-chrome="noscrollbar transparent"  data-theme="dark"  border-color="#ed4e6e" data-color="#ffffff" data-widget-id="406532749231550464">Tweets by @IITKgp</a>
-                              <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-                          </div-->
+                <div id="carousel" class="col-md-12">
+                <!-- begin carousel -->
+                    <div class="carousel slide" id="carousel-277846">
+                      <ol class="carousel-indicators">
+                        <li class="active" data-slide-to="0" data-target="#carousel-277846">
+                        </li>
+                        <li data-slide-to="1" data-target="#carousel-277846">
+                        </li>
+                        <li data-slide-to="2" data-target="#carousel-277846">
+                        </li>
+                      </ol>
+                      <div class="carousel-inner">
+                        <div class="item active" align="center">
+                          <img alt="" src="resources/auv.jpg">
+                          <div class="carousel-caption">
+                            <h4>
+                              First Thumbnail label
+                            </h4>
+                            <p>
+                              Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+                            </p>
+                          </div>
+                        </div>
+                        <div class="item" align="center">
+                          <img alt="" src="resources/auv.jpg">
+                          <div class="carousel-caption">
+                            <h4>
+                              Second Thumbnail label
+                            </h4>
+                            <p>
+                              Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+                            </p>
+                          </div>
+                        </div>
+                        <div class="item" align="center">
+                          <img alt="" src="resources/auv.jpg">
+                          <div class="carousel-caption">
+                            <h4>
+                              Third Thumbnail label
+                            </h4>
+                            <p>
+                              Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+                            </p>
+                          </div>
+                        </div>
+                      </div> <a class="left carousel-control" href="#carousel-277846" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a> <a class="right carousel-control" href="#carousel-277846" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+                    </div>
+                <!-- end carousel -->
                 </div>
-                <div class="col-md-10">
-                    <ul class="bxslider">
-                      <li><img src="resources/auv.jpg" title="Kraken 2.0" /></li>
-                      <li><img src="resources/auv.jpg" title="Kraken 2.0" /></li>
-                      <li><img src="resources/auv.jpg" title="Kraken 2.0" /></li>
-                    </ul>
-                </div>
-                <div class="col-md-1"></div>
             </div>
 
             <div class ="row" >
-                <div class="col-md-1"><h1></div>
-                <div class="col-md-7"><h2 style="border-bottom:1px solid #000000">Blog Posts</h2><br>
+                <div class="col-md-8">
+                    <h2 style="border-bottom:1px solid #000000">Blog Posts</h2><br>
                     <div class="well well-lg">
                         
                         <h3>AUV Underwater Simulator <small>in progress</small></h3>
@@ -91,24 +125,25 @@
                         Our team consists of 20 undergraduate students form multi disciplines. Our prime objective is to take part in the annual AUVSI ROBOSUB held in San Diego, California. This competition provides an opportunity for teams and industries across the globe to showcase their capabilities in underwater robotics. As part of the competition, a team is supposed to build and design a fully functional AUV which entails designing and manufacturing robust systems in the domains of mechanical, electrical and software engineering. Being a part of iKAT, team members apply their conceptual understanding and creativity in multiple dimensions of engineering. 
                     </div>
                 </div>
-                <div class="col-md-3">
-                    <h2>ABOUT US</h2>
-                        The IIT Kharagpur Autonomous Underwater Vehicle Team (iKAT) is a student group working in the field of autonomous underwater robotics. We design and build Autonomous Underwater Vehicles for research and competitive purposes. <br><br>
-                    <h2> TWITTER FEED</h2>
+                <div class="col-md-4" style="margin-top:30px">
+                    <div class="well well-lg">
+                        <h2 style="border-bottom:1px solid #000000">ABOUT US</h2>
+                            The IIT Kharagpur Autonomous Underwater Vehicle Team (iKAT) is a student group working in the field of autonomous underwater robotics. We design and build Autonomous Underwater Vehicles for research and competitive purposes. <br><br>
+                    </div>
+                        <h2  style="border-bottom:1px solid #000000"> TWITTER FEED</h2>
                     <a class="twitter-timeline" href="https://twitter.com/IITKGPAUV" data-widget-id="439755179924021248">Tweets by @IITKGPAUV</a>
                     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
                 </div>
-                <div class="col-md-1"></div>    
             </div>
         </div>
-	  </div>
-    <div id="footer">
-        <footer class="footer container-fluid">
-            <p class="muted credit">
-                ©2014 IIT Kharagpur - AUV Team
-            </p>
-        </footer>
-    </div>
+        <div id="footer" class="col-md-12">
+            <footer class="footer container-fluid">
+                <p class="muted credit">
+                    ©2014 IIT Kharagpur - AUV Team
+                </p>
+            </footer>
+        </div>
+      </div>
 </body>
 
 <script>
