@@ -26,49 +26,251 @@
             changeActive(1);
         </script>
         <div class = "container" style="margin-top:70px;">
-            <h1 style="text-align:center;">Contacts</h1>
+            <h1 style="text-align:center;">The Team</h1>
             <div class="row">
                 <div class="col-md-2">
                     <ul class="nav nav-pills nav-stacked" style="position: fixed; width: 10%;">
                         <li class="active"><a href="#facad">Faculty Advisor</a></li>
                         <li><a href="#studad">Student Advisors</a></li>
-                        <li><a href="#mechanical">Mechanical Team</a></li>
-                        <li><a href="#electrical">Electrical Team</a></li>
                         <li><a href="#software">Software Team</a></li>
+                        <li><a href="#electronics">Electronics Team</a></li>
+                        <li><a href="#mechanical">Mechanical Team</a></li>
                     </ul>
                 </div>
                 <div class="col-md-8">
                     <div class="well well-lg" id="facad">
-                    	<h2>Faculty Advisor</h2>
+                    	<h2 style="text-align:center;">Faculty Advisor</h2>
                     	<div class="row">
-	                    	<div class="col-md-3">
-		                        <img class="img-responsive img-thumbnail" src="../resources/team_photos/prof_cs_kumar.JPG">
-	                        </div>
-	                    	<div class="well col-md-7 col-md-offset-1">
-	                    		<a href="http://iitkgp.ac.in/fac-profiles/showprofile.php?empcode=aWmdU"><h3>Prof. C S Kumar</h3></a>
-	                    		<p>
-	                    			Associate Professor <br>
-	                    			Department of Mechanical Engineering <br>
-	                    		 	IIT Kharagpur
-                    		 	</p>
-	                    		<p>
-	                    			email : kumar@mech.iitkgp.ernet.in<br>
-	                    			Phone : +91 - 3222 - 282934
-                    			</p>
-	                        </div>
+                            <div class="col-md-2">
+                                <img src="../resources/team_photos/prof_cs_kumar.JPG" alt="" class="img-rounded img-responsive"  />
+                            </div>
+                            <div class="col-md-6">
+                                <blockquote>
+                                    <p>Dr. C.S. Kumar</p> <small><cite title="Source Title">Assistant Professor, Dept. of Mechanical Engineering</cite></small>
+                                </blockquote>
+                                <p style="font-size:12px;"> <i class="fa fa-envelope"> kumar @ mech.iitkgp.ernet.in</i> 
+                                </br><i class="fa fa-phone"> +91 - 3222 - 282934</i></p> 
+                            </div>
                         </div>
                     </div>
                     <div class="well well-lg" id="studad">
-                        <h2>Student Advisors</h2>
-                    </div>
-                    <div class="well well-lg" id="mechanical">
-                        <h2>Mechanical Team</h2>
-                    </div>
-                    <div class="well well-lg" id="electrical">
-                        <h2>Electrical Team</h2>
+                        <h2 style="text-align:center;">Student Advisors</h2>
+                        <div class="row">
+                            <div class="col-md-2">
+                                <img src="../resources/team_photos/anurag.jpg" alt="" class="img-rounded" height="110" width="110" />
+                            </div>
+                            <div class="col-md-4" style="padding-right:0px;">
+                                <blockquote>
+                                    <p>Anurag Chaudhary</p> <small><cite title="Source Title">Electrical Engg</cite></small>
+                                </blockquote>
+                                <p style="font-size:12px;"> <i class="fa fa-envelope"> anuragiitkgp100@gmail.com</i> 
+                                </br><i class="fa fa-phone"> +91 - 3222 - 282934</i></p> 
+                            </div>
+                            <div class="col-md-2">
+                                <img src="../resources/team_photos/vinay.jpg" alt="" class="img-rounded" height="110" width="110"  />
+                            </div>
+                            <div class="col-md-4" style="padding-right:0px;">
+                                <blockquote>
+                                    <p>Vinay Yadav</p> <small><cite title="Source Title">Electrical Engg</cite></small>
+                                </blockquote>
+                                <p style="font-size:12px;"> <i class="fa fa-envelope"> vinayyadav3016@gmail.com</i> 
+                                </br><i class="fa fa-phone"> +91 - 3222 - 282934</i> </p>
+                            </div>
+                        </div>
                     </div>
                     <div class="well well-lg" id="software">
-                        <h2>Software Team</h2>
+                        <h2 style="text-align:center;">Software Team</h2>
+                        <div class="row">
+                            <div class="col-md-2">
+                                <img src="../resources/team_photos/madhukar.jpg" alt="" class="img-rounded" height="110" width="110" />
+                            </div>
+                            <div class="col-md-4" style="padding-right:0px;">
+                                <blockquote>
+                                    <p>Madhukar Kumar</p> <small><cite title="Source Title">Electrical Engg</cite></small>
+                                </blockquote>
+                                <!--p style="font-size:12px;"> <i class="fa fa-envelope"> anuragiitkgp100@gmail.com</i> 
+                                </br><i class="fa fa-phone"> +91 - 3222 - 282934</i></p--> 
+                            </div>
+                            <div class="col-md-2">
+                                <img src="../resources/team_photos/siddhartha.jpg" alt="" class="img-rounded" height="110" width="110"  />
+                            </div>
+                            <div class="col-md-4" style="padding-right:0px;">
+                                <blockquote>
+                                    <p>Siddartha Sathpathi</p> <small><cite title="Source Title">Electrical Engg</cite></small>
+                                </blockquote>
+                                <!--p style="font-size:12px;"> <i class="fa fa-envelope"> vinayyadav3016@gmail.com</i> 
+                                </br><i class="fa fa-phone"> +91 - 3222 - 282934</i> </p-->
+                            </div>
+                        </div>
+                        </br>
+                        <div class="row">
+                            <div class="col-md-2">
+                                <img src="../resources/team_photos/Ankesh.jpg" alt="" class="img-rounded" height="110" width="110" />
+                            </div>
+                            <div class="col-md-4" style="padding-right:0px;">
+                                <blockquote>
+                                    <p>Ankesh Anand</p> <small><cite title="Source Title">Mathematics and Computing</cite></small>
+                                </blockquote>
+                                <!--p style="font-size:12px;"> <i class="fa fa-envelope"> anuragiitkgp100@gmail.com</i> 
+                                </br><i class="fa fa-phone"> +91 - 3222 - 282934</i></p--> 
+                            </div>
+                            <div class="col-md-2">
+                                <img src="../resources/team_photos/sriram.jpg" alt="" class="img-rounded" height="110" width="110"  />
+                            </div>
+                            <div class="col-md-4" style="padding-right:0px;">
+                                <blockquote>
+                                    <p>Sriram Rao</p> <small><cite title="Source Title">Mechanical Engg</cite></small>
+                                </blockquote>
+                                <!--p style="font-size:12px;"> <i class="fa fa-envelope"> vinayyadav3016@gmail.com</i> 
+                                </br><i class="fa fa-phone"> +91 - 3222 - 282934</i> </p-->
+                            </div>
+                        </div>
+                        </br>
+                        <div class="row">
+                            <div class="col-md-2">
+                                <img src="../resources/team_photos/nevin.jpg" alt="" class="img-rounded" height="110" width="110" />
+                            </div>
+                            <div class="col-md-4" style="padding-right:0px;">
+                                <blockquote>
+                                    <p>Nevin Valsaraj</p> <small><cite title="Source Title">Computer Science and Engg</cite></small>
+                                </blockquote>
+                                <!--p style="font-size:12px;"> <i class="fa fa-envelope"> anuragiitkgp100@gmail.com</i> 
+                                </br><i class="fa fa-phone"> +91 - 3222 - 282934</i></p--> 
+                            </div>
+                            <div class="col-md-2">
+                                <img src="../resources/team_photos/karnam.jpg" alt="" class="img-rounded" height="110" width="110"  />
+                            </div>
+                            <div class="col-md-4" style="padding-right:0px;">
+                                <blockquote>
+                                    <p>Karnam Sai Raji Teja</p> <small><cite title="Source Title">Electrical Engg</cite></small>
+                                </blockquote>
+                                <!--p style="font-size:12px;"> <i class="fa fa-envelope"> vinayyadav3016@gmail.com</i> 
+                                </br><i class="fa fa-phone"> +91 - 3222 - 282934</i> </p-->
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="well well-lg" id="electronics">
+                        <h2 style="text-align:center;">Electronics Team</h2>
+                        <div class="row">
+                            <div class="col-md-2">
+                                <img src="../resources/team_photos/abhay.jpg" alt="" class="img-rounded" height="110" width="110" />
+                            </div>
+                            <div class="col-md-4" style="padding-right:0px;">
+                                <blockquote>
+                                    <p>Abhay Kumar</p> <small><cite title="Source Title">Ocean Engg and Naval Arch.</cite></small>
+                                </blockquote>
+                                <!--p style="font-size:12px;"> <i class="fa fa-envelope"> anuragiitkgp100@gmail.com</i> 
+                                </br><i class="fa fa-phone"> +91 - 3222 - 282934</i></p--> 
+                            </div>
+                            <div class="col-md-2">
+                                <img src="../resources/team_photos/default.jpg" alt="" class="img-rounded" height="110" width="110"  />
+                            </div>
+                            <div class="col-md-4" style="padding-right:0px;">
+                                <blockquote>
+                                    <p>Vishnu Sharma</p> <small><cite title="Source Title">Electronics and CommunicationEngg</cite></small>
+                                </blockquote>
+                                <!--p style="font-size:12px;"> <i class="fa fa-envelope"> vinayyadav3016@gmail.com</i> 
+                                </br><i class="fa fa-phone"> +91 - 3222 - 282934</i> </p-->
+                            </div>
+                        </div>
+                        <br>
+                        <div class="row">
+                            <div class="col-md-2">
+                                <img src="../resources/team_photos/default.jpg" alt="" class="img-rounded" height="110" width="110" />
+                            </div>
+                            <div class="col-md-4" style="padding-right:0px;">
+                                <blockquote>
+                                    <p>Vardhan Pahuja</p> <small><cite title="Source Title">Electronics and Communication Engg</cite></small>
+                                </blockquote>
+                                <!--p style="font-size:12px;"> <i class="fa fa-envelope"> anuragiitkgp100@gmail.com</i> 
+                                </br><i class="fa fa-phone"> +91 - 3222 - 282934</i></p--> 
+                            </div>
+                            <div class="col-md-2">
+                                <img src="../resources/team_photos/naman.jpg" alt="" class="img-rounded" height="110" width="110"  />
+                            </div>
+                            <div class="col-md-4" style="padding-right:0px;">
+                                <blockquote>
+                                    <p>Naman Mitruka</p> <small><cite title="Source Title">Electronics and Communication Engg</cite></small>
+                                </blockquote>
+                                <!--p style="font-size:12px;"> <i class="fa fa-envelope"> vinayyadav3016@gmail.com</i> 
+                                </br><i class="fa fa-phone"> +91 - 3222 - 282934</i> </p-->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="well well-lg" id="mechanical">
+                        <h2 style="text-align:center;">Mechanical Team</h2>
+                        <div class="row">
+                            <div class="col-md-2">
+                                <img src="../resources/team_photos/default.jpg" alt="" class="img-rounded" height="110" width="110" />
+                            </div>
+                            <div class="col-md-4" style="padding-right:0px;">
+                                <blockquote>
+                                    <p>Ravi Kumar</p> <small><cite title="Source Title">Mechanical Engg</cite></small>
+                                </blockquote>
+                                <!--p style="font-size:12px;"> <i class="fa fa-envelope"> anuragiitkgp100@gmail.com</i> 
+                                </br><i class="fa fa-phone"> +91 - 3222 - 282934</i></p--> 
+                            </div>
+                            <div class="col-md-2">
+                                <img src="../resources/team_photos/default.jpg" alt="" class="img-rounded" height="110" width="110"  />
+                            </div>
+                            <div class="col-md-4" style="padding-right:0px;">
+                                <blockquote>
+                                    <p>Naveen Gupta</p> <small><cite title="Source Title">Mechanical Engg</cite></small>
+                                </blockquote>
+                                <!--p style="font-size:12px;"> <i class="fa fa-envelope"> vinayyadav3016@gmail.com</i> 
+                                </br><i class="fa fa-phone"> +91 - 3222 - 282934</i> </p-->
+                            </div>
+                        </div>
+                        <br>
+                        <div class="row">
+                            <div class="col-md-2">
+                                <img src="../resources/team_photos/default.jpg" alt="" class="img-rounded" height="110" width="110" />
+                            </div>
+                            <div class="col-md-4" style="padding-right:0px;">
+                                <blockquote>
+                                    <p>Avirup Sarkar</p> <small><cite title="Source Title">Mechanical Engg</cite></small>
+                                </blockquote>
+                                <!--p style="font-size:12px;"> <i class="fa fa-envelope"> anuragiitkgp100@gmail.com</i> 
+                                </br><i class="fa fa-phone"> +91 - 3222 - 282934</i></p--> 
+                            </div>
+                            <div class="col-md-2">
+                                <img src="../resources/team_photos/default.jpg" alt="" class="img-rounded" height="110" width="110"  />
+                            </div>
+                            <div class="col-md-4" style="padding-right:0px;">
+                                <blockquote>
+                                    <p>Shubham Kesarwani</p> <small><cite title="Source Title">Mechanical Engg</cite></small>
+                                </blockquote>
+                                <!--p style="font-size:12px;"> <i class="fa fa-envelope"> vinayyadav3016@gmail.com</i> 
+                                </br><i class="fa fa-phone"> +91 - 3222 - 282934</i> </p-->
+                            </div>
+                        </div>
+                        </br>
+                        <div class="row">
+                            <div class="col-md-2">
+                                <img src="../resources/team_photos/default.jpg" alt="" class="img-rounded" height="110" width="110" />
+                            </div>
+                            <div class="col-md-4" style="padding-right:0px;">
+                                <blockquote>
+                                    <p>Prabhat Kumar</p> <small><cite title="Source Title">Mechanical Engg</cite></small>
+                                </blockquote>
+                                <!--p style="font-size:12px;"> <i class="fa fa-envelope"> anuragiitkgp100@gmail.com</i> 
+                                </br><i class="fa fa-phone"> +91 - 3222 - 282934</i></p--> 
+                            </div>
+                            <div class="col-md-2">
+                                <img src="../resources/team_photos/default.jpg" alt="" class="img-rounded" height="110" width="110"  />
+                            </div>
+                            <div class="col-md-4" style="padding-right:0px;">
+                                <blockquote>
+                                    <p>Keshav Patil</p> <small><cite title="Source Title">Chemical Engg</cite></small>
+                                </blockquote>
+                                <!--p style="font-size:12px;"> <i class="fa fa-envelope"> vinayyadav3016@gmail.com</i> 
+                                </br><i class="fa fa-phone"> +91 - 3222 - 282934</i> </p-->
+                            </div>
+                        </div>
+
+
+
                     </div>
                 </div>
                 <div class="col-md-2">
