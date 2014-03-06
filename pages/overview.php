@@ -4,11 +4,11 @@
         <meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
         <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-        <title>Overview</title>
-        <meta name="description" content="" />
-        <meta name="keywords" content="" />
+        <title>Overview | AUV Team, IIT Kharagpur</title>
+        <meta name="description" content="Overview | AUV Team, IIT Kharagpur" />
+        <meta name="keywords" content="Overview, Mechanical, Software, Electrical, AUV, Autonomous, Underwater, Vehicle, Team, IIT, IIT Kharagpur, Kharagpur"/>
         <link href="../font-awesome/css/font-awesome.min.css" rel="stylesheet">
-        <link rel="shortcut icon" href="../resources/logo.gif"> 
+        <link rel="shortcut icon" href="../resources/favicon.ico" type="image/x-icon"> 
         
         <link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
         <link rel="stylesheet" type="text/css" href="../css/component.css" />
@@ -36,7 +36,7 @@
                         <li><a href="#software">Software</a></li>
                     </ul>
                 </div>
-                <div class="col-md-7">
+                <div class="col-md-8">
                     <div id ="mechanical" class="well well-lg">
                         <h1>MECHANICAL</h1>
                         <p>

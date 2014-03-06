@@ -4,11 +4,11 @@
         <meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
         <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-        <title>Competitions</title>
-        <meta name="description" content="" />
-        <meta name="keywords" content="" />
+        <title>Competitions | AUV Team, IIT Kharagpur</title>
+        <meta name="description" content="Competitions | AUV Team, IIT Kharagpur" />
+        <meta name="keywords" content="Competitions, RoboSub, Sauc-E, NIOT, SAVe, AUV, Autonomous, Underwater, Vehicle, Team, IIT, IIT Kharagpur, Kharagpur" />
         <link href="../font-awesome/css/font-awesome.min.css" rel="stylesheet">
-        <link rel="shortcut icon" href="favicon.ico"> 
+        <link rel="shortcut icon" href="../resources/favicon.ico" type="image/x-icon"> 
         
         <link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
         <link rel="stylesheet" type="text/css" href="../css/component.css" />
@@ -42,8 +42,8 @@
                                 AUVSI (Association for Unmanned Vehicles System International) is an international organization based in U.S., established in 1972 with an aim to promote unmanned systems. The organization has a membership of more than 6000 people from more than 55 countries. RoboSub is one of the major competitions organized by AUVSI Foundation.  Co-sponsored by the U.S. Department of Navy, AUVSI Foundation, BOEING, Intel, SEABOTIX, Solid Works, Battelle, SPAWAR, NORTHROP GRUMMAN and other big names in the market, the event is held in San Diego every year. The competition is held every year at TRANSDEC facility, San Diego. The event is closely monitored by high personnel, with Mayor of the city visiting the arena last year. The semi-finals and finals are open to public and the final is streamed live on Internet. With around 30 participating teams from as diversified nationalities as Spain, China, Japan, Ireland, Canada, U.S.A., India etc. and belonging to universities as well as naval academies, the competition provides an excellent way to display our skills and advancements with huge publicity and media exposure. 
                             </p>
                             <h3> Arena </h3>
-                            <img src="../resources/robosub_field.jpg" width="500">
-                            <img src="../resources/robosub_obstacles.jpg" width="500">
+                            <img class="img-responsive" src="../resources/robosub_field.jpg" width="500">
+                            <img class="img-responsive" src="../resources/robosub_obstacles.jpg" width="500">
                         </div>
                     </div>
                     <div id="sauce">
@@ -52,7 +52,7 @@
                             <p>
                             Held since 2006, SAUC-E challenges the next generation of engineers to design and build an autonomous underwater vehicle (AUV) capable of performing realistic missions.  The event is designed to encourage students to think about underwater technology and related applications while fostering innovation and technology. The event is being organized by  NATO Undersea Research Centre.
                             </p>
-                            <img src="../resources/sauce_arena.jpg" width="500">
+                            <img class="img-responsive" src="../resources/sauce_arena.jpg" width="500">
                         </div>
                     </div>
                 </div>

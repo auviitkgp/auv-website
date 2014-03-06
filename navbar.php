@@ -15,14 +15,14 @@
             <ul class="nav navbar-nav" id="navbarlist">
                 <li class="active"><a href="index.php">Home</a></li>
                
-                <li><a href="pages/team.php">About Us</a></li>
                 <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Vehicle<b class="caret"></b></a>
                 <ul class="dropdown-menu">
-                    <li><a href="mechanical.php">Mechanical Overview</a></li>
-                    <li><a href="electrical.php">Electrical Overview</a></li>
-                    <li><a href="software.php">Software Overview</a></li>
+                    <li><a href="pages/overview.php#mechanical">Mechanical Overview</a></li>
+                    <li><a href="pages/overview.php#electrical">Electrical Overview</a></li>
+                    <li><a href="pages/overview.php#software">Software Overview</a></li>
                 </ul>
+                <li><a href="pages/team.php">Team</a></li>
                 <li><a href="pages/competitions.php">Competitions</a></li>
                 <li class="menu-item dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Sponsors<b class="caret"></b></a>
@@ -33,24 +33,16 @@
                 </li>
 
                 <li><a href="pages/gallery.php">Gallery</a></li>
-                <li><a href="contact.php">Contact</a></li>
+                <li><a href="contacts.php">Contacts</a></li>
                 <li><a href="http://www.auv-iitkgp.ac.in/blog">Blog</a></li>
 
                 </li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="http://www.facebook.com/TSG.IITKharagpur"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="https://twitter.com/IITKgp"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="http://www.youtube.com/user/GymkhanaIITkgp"><i class="fa fa-youtube"></i></a></li>
-                <li><a href="https://github.com/gymkhana-iit-kgp"><i class="fa fa-github"></i></a></li>
-                <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Quick Links <b class="caret"></b></a>
-                <ul class="dropdown-menu">
-                    <li><a href="www.iitkgp.ac.in">IIT Kharagpur</a></li>
-                    <li><a href="www.ktj.in">Kshitij</a></li>
-                    <li><a href="www.springfest.in">Spring Fest</a></li>
-                </ul>
-                </li>
+                <li><a href="https://www.facebook.com/AUV.IITkgp"><i class="fa fa-facebook"></i></a></li>
+                <li><a href="https://twitter.com/IITKGPAUV"><i class="fa fa-twitter"></i></a></li>
+                <li><a href="http://www.youtube.com/channel/UCwTWLZKImXf5QvzDMk3bD5g?feature=watch"><i class="fa fa-youtube"></i></a></li>
+                <li><a href="https://github.com/iit-kgp-auv-team"><i class="fa fa-github"></i></a></li>
             </ul>
         </div><!-- /.navbar-collapse -->
         </nav>
