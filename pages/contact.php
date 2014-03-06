@@ -60,7 +60,7 @@
                         </div>
                     </div>
 
-                    <div class="col-md-2">
+                    <div class="col-md-3">
                     <div class="well">
                         <h1>ABOUT US</h1>
                         The IIT Kharagpur Autonomous Underwater Vehicle Team (iKAT) is a student group working in the field of autonomous underwater robotics. We design and build Autonomous Underwater Vehicles for research and competitive purposes.
@@ -73,7 +73,6 @@
                     </script>
 
                 </div>
-                <div class="col-md-1"></div>
             </div>
         </div>
     </body>
