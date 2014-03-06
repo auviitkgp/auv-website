@@ -25,12 +25,7 @@
                 <li><a href="pages/team.php">Team</a></li>
                 <li><a href="pages/competitions.php">Competitions</a></li>
                 <li class="menu-item dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Sponsors<b class="caret"></b></a>
-                <ul class="dropdown-menu">
-                    <li><a href="pages/sponsors_2014">2014</a> </li>
-                    <li><a href="pages/sponsors_2013">2013</a> </li>
-                </ul>
-                </li>
+                <li><a href="pages/sponsors.php">Sponsors</a></li>
 
                 <li><a href="pages/gallery.php">Gallery</a></li>
                 <li><a href="pages/contacts.php">Contacts</a></li>

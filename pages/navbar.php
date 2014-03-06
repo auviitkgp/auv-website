@@ -24,14 +24,7 @@
                 </ul>
                 <li><a href="team.php">Team</a></li>
                 <li><a href="competitions.php">Competitions</a></li>
-                <li class="menu-item dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Sponsors<b class="caret"></b></a>
-                <ul class="dropdown-menu">
-                    <li><a href="sponsors_2014">2014</a> </li>
-                    <li><a href="sponsors_2013">2013</a> </li>
-                </ul>
-                </li>
-
+                <li><a href="sponsors.php">Sponsors</a></li>
                 <li><a href="gallery.php">Gallery</a></li>
                 <li><a href="contacts.php">Contacts</a></li>
                 <li><a href="http://auv-iitkgp.ac.in/blog">Blog</a></li>
