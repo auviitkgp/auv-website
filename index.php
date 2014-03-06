@@ -25,7 +25,7 @@
     <!-- bxSlider Javascript file -->
     <script src="js/jquery.bxslider.min.js"></script>
     <!-- bxSlider CSS file -->
-    <link href="css/jquery.bxslider.css" rel="stylesheet" />
+    <!-- <link href="css/jquery.bxslider.css" rel="stylesheet" /> -->
 
     <style>
     ::-webkit-scrollbar {
@@ -55,6 +55,7 @@
     }
 
     .navbar-brand { max-height: 40px; overflow: visible;padding-top: 0;padding-bottom: 0; margin-left:10px;}
+    #carousel_id{ background-color:#DD2121}
     </style>
 </head>
 
@@ -65,18 +66,18 @@
             <div class="row" style="margin-top:60px;">
                 <div id="carousel" class="col-md-12">
                 <!-- begin carousel -->
-                    <div class="carousel slide" id="carousel-277846">
+                    <div class="carousel slide" id="carousel_id">
                       <ol class="carousel-indicators">
-                        <li class="active" data-slide-to="0" data-target="#carousel-277846">
+                        <li class="active" data-slide-to="0" data-target="#carousel_id">
                         </li>
-                        <li data-slide-to="1" data-target="#carousel-277846">
+                        <li data-slide-to="1" data-target="#carousel_id">
                         </li>
-                        <li data-slide-to="2" data-target="#carousel-277846">
+                        <li data-slide-to="2" data-target="#carousel_id">
                         </li>
                       </ol>
                       <div class="carousel-inner">
                         <div class="item active" align="center">
-                          <img alt="" src="resources/auv.jpg">
+                          <img alt="" src="resources/bg_suburb.jpg">
                           <div class="carousel-caption">
                             <h4>
                               First Thumbnail label
@@ -87,7 +88,7 @@
                           </div>
                         </div>
                         <div class="item" align="center">
-                          <img alt="" src="resources/auv.jpg">
+                          <img alt="" src="resources/carousel_auv.jpg">
                           <div class="carousel-caption">
                             <h4>
                               Second Thumbnail label
@@ -98,7 +99,7 @@
                           </div>
                         </div>
                         <div class="item" align="center">
-                          <img alt="" src="resources/auv.jpg">
+                          <img alt="" src="resources/carousel_auv.jpg">
                           <div class="carousel-caption">
                             <h4>
                               Third Thumbnail label
@@ -108,7 +109,7 @@
                             </p>
                           </div>
                         </div>
-                      </div> <a class="left carousel-control" href="#carousel-277846" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a> <a class="right carousel-control" href="#carousel-277846" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+                      </div> <a class="left carousel-control" href="#carousel_id" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a> <a class="right carousel-control" href="#carousel_id" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
                     </div>
                 <!-- end carousel -->
                 </div>
