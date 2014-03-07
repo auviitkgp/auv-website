@@ -4,7 +4,7 @@
         <meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
         <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-        <title>Gallery | AUV Team, IIT Kharagpur</title>
+        <title>Gallery | Team AUV, IIT Kharagpur</title>
         <meta name="description" content="Overview | AUV Team, IIT Kharagpur" />
         <meta name="keywords" content="Gallery, Images, AUV, Autonomous, Underwater, Vehicle, Team, IIT, IIT Kharagpur, Kharagpur"/>
         <link href="../font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -32,7 +32,7 @@
                 <div class="col-md-8">
                     <div id ="sponsors" class="well well-lg">
                         <h1 style="text-align:center"><small>
-                            A team of trained monkeys have been assigned to search for the missing images.<br>Try again soon!
+                            A team of trained monkeys have been assigned to search for the missing images.<br>Try again soon!!
                         </small></h1>
                     </div>
                     </div>
@@ -43,7 +43,7 @@
                         The IIT Kharagpur Autonomous Underwater Vehicle Team (iKAT) is a student group working in the field of autonomous underwater robotics. We design and build Autonomous Underwater Vehicles for research and competitive purposes.
                     </div>
                     <a class="twitter-timeline" href="https://twitter.com/IITKGPAUV" data-widget-id="439755179924021248">
-                        <small><strong>TWEETS BY @IITKGPAUV</strong></small>
+                        <small><strong>TWEETS BY @auviitkgp</strong>
                     </a>
                     <script>
                         !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
@@ -68,4 +68,4 @@
         });
 
     </script>
-<
+</html>

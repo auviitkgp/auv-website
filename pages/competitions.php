@@ -4,7 +4,7 @@
         <meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
         <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-        <title>Competitions | AUV Team, IIT Kharagpur</title>
+        <title>Competitions | Team AUV, IIT Kharagpur</title>
         <meta name="description" content="Competitions | AUV Team, IIT Kharagpur" />
         <meta name="keywords" content="Competitions, RoboSub, Sauc-E, NIOT, SAVe, AUV, Autonomous, Underwater, Vehicle, Team, IIT, IIT Kharagpur, Kharagpur" />
         <link href="../font-awesome/css/font-awesome.min.css" rel="stylesheet">
