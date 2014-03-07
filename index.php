@@ -141,7 +141,7 @@
 
                             which entails designing and manufacturing robust systems in the domains of mechanical, electrical and 
 
-                            software engineering. Being a part of AUV TEAM, team members apply their conceptual understanding 
+                            software engineering. Being a part of Team AUV, the team members apply their conceptual understanding 
 
                             and creativity in multiple dimensions of engineering.
                         </p>
@@ -161,7 +161,7 @@
 
                             solutions. 
 
-                            The team thus developed its first vehicle ‘Kraken1.0’ in June 2011, overcoming hurdles like cost, 
+                            The team thus developed its first vehicle ‘Kraken 1.0’ in June 2011, overcoming hurdles like cost, 
 
                             manufacturability, efficient design and limited time. We then went on to win the first ever national 
 

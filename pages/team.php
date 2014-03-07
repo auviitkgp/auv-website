@@ -168,7 +168,7 @@
                                 </br><i class="fa fa-phone"> +91 - 3222 - 282934</i></p--> 
                             </div>
                             <div class="col-md-2">
-                                <img src="../resources/team_photos/default.jpg" alt="" class="img-rounded" height="110" width="110"  />
+                                <img src="../resources/team_photos/vishnu.jpg" alt="" class="img-rounded" height="110" width="110"  />
                             </div>
                             <div class="col-md-4" style="padding-right:0px;">
                                 <blockquote>
