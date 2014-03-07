@@ -42,7 +42,7 @@
                     	<h2 style="text-align:center;">Faculty Advisor</h2>
                     	<div class="row">
                             <div class="col-md-2">
-                                <img src="../resources/team_photos/prof_cs_kumar.JPG" alt="" class="img-rounded img-responsive"  />
+                                <img src="../resources/team_photos/prof_cs_kumar.jpg" alt="" class="img-rounded img-responsive"  />
                             </div>
                             <div class="col-md-6">
                                 <blockquote>
@@ -206,7 +206,7 @@
                         <h2 style="text-align:center;">Mechanical Team</h2>
                         <div class="row">
                             <div class="col-md-2">
-                                <img src="../resources/team_photos/default.jpg" alt="" class="img-rounded" height="110" width="110" />
+                                <img src="../resources/team_photos/ravi.jpg" alt="" class="img-rounded" height="110" width="110" />
                             </div>
                             <div class="col-md-4" style="padding-right:0px;">
                                 <blockquote>
@@ -216,7 +216,7 @@
                                 </br><i class="fa fa-phone"> +91 - 3222 - 282934</i></p--> 
                             </div>
                             <div class="col-md-2">
-                                <img src="../resources/team_photos/default.jpg" alt="" class="img-rounded" height="110" width="110"  />
+                                <img src="../resources/team_photos/naveen.jpg" alt="" class="img-rounded" height="110" width="110"  />
                             </div>
                             <div class="col-md-4" style="padding-right:0px;">
                                 <blockquote>
@@ -229,7 +229,7 @@
                         <br>
                         <div class="row">
                             <div class="col-md-2">
-                                <img src="../resources/team_photos/default.jpg" alt="" class="img-rounded" height="110" width="110" />
+                                <img src="../resources/team_photos/avirup.jpg" alt="" class="img-rounded" height="110" width="110" />
                             </div>
                             <div class="col-md-4" style="padding-right:0px;">
                                 <blockquote>
@@ -239,7 +239,7 @@
                                 </br><i class="fa fa-phone"> +91 - 3222 - 282934</i></p--> 
                             </div>
                             <div class="col-md-2">
-                                <img src="../resources/team_photos/default.jpg" alt="" class="img-rounded" height="110" width="110"  />
+                                <img src="../resources/team_photos/shubham.jpg" alt="" class="img-rounded" height="110" width="110"  />
                             </div>
                             <div class="col-md-4" style="padding-right:0px;">
                                 <blockquote>
@@ -252,7 +252,7 @@
                         </br>
                         <div class="row">
                             <div class="col-md-2">
-                                <img src="../resources/team_photos/default.jpg" alt="" class="img-rounded" height="110" width="110" />
+                                <img src="../resources/team_photos/prabhat.jpg" alt="" class="img-rounded" height="110" width="110" />
                             </div>
                             <div class="col-md-4" style="padding-right:0px;">
                                 <blockquote>
@@ -262,7 +262,7 @@
                                 </br><i class="fa fa-phone"> +91 - 3222 - 282934</i></p--> 
                             </div>
                             <div class="col-md-2">
-                                <img src="../resources/team_photos/default.jpg" alt="" class="img-rounded" height="110" width="110"  />
+                                <img src="../resources/team_photos/keshav.jpg" alt="" class="img-rounded" height="110" width="110"  />
                             </div>
                             <div class="col-md-4" style="padding-right:0px;">
                                 <blockquote>
@@ -280,7 +280,11 @@
                 <div class="col-md-2">
                 <div class="well">
                         <h1>ABOUT US</h1>
-                        The IIT Kharagpur Autonomous Underwater Vehicle Team (iKAT) is a student group working in the field of autonomous underwater robotics. We design and build Autonomous Underwater Vehicles for research and competitive purposes.
+                        <p>
+                            The IIT Kharagpur Autonomous Underwater Vehicle Team (Team AUV) is a student group working in the field of 
+                            autonomous underwater robotics. We design and build fully autonomous underwater robots for research and 
+                            competitive purposes. 
+                        </p>
                         </div>
                     <a class="twitter-timeline" href="https://twitter.com/IITKGPAUV" data-widget-id="439755179924021248">
                         <small><strong>Tweets by @IITKGPAUV</strong></small>

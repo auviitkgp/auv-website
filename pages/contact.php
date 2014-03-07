@@ -63,7 +63,11 @@
                     <div class="col-md-3">
                     <div class="well">
                         <h1>ABOUT US</h1>
-                        The IIT Kharagpur Autonomous Underwater Vehicle Team (iKAT) is a student group working in the field of autonomous underwater robotics. We design and build Autonomous Underwater Vehicles for research and competitive purposes.
+                        <p>
+                            The IIT Kharagpur Autonomous Underwater Vehicle Team (Team AUV) is a student group working in the field of 
+                            autonomous underwater robotics. We design and build fully autonomous underwater robots for research and 
+                            competitive purposes. 
+                        </p>
                     </div>
                     <a class="twitter-timeline" href="https://twitter.com/IITKGPAUV" data-widget-id="439755179924021248">
                         <small><strong>TWEETS BY @IITKGPAUV</strong></small>

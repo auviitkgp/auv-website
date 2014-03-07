@@ -54,12 +54,30 @@
                         <br>
                         <b><p style="text-align:center">If you would like to sponsor us with equipment, sensors or cash sponsorship, do drop us an email at ikat.kgp@gmail.com</p></b>
                     </div>
-                    </div>
+                    <div id="spons_former" class="well well-lg">
+                        <h1 align="center" style="border-bottom:1px solid #000000">Former Sponsors</h1>
 
-                    <div class="col-md-3">
+                        <h2 align="center">NIOT</h2>
+                        <div class="wrapper" align="center"><img src="../resources/niot.jpg" class="img-responsive img-rounded"></div>
+                        <br>
+
+                        <h2 align="center">Tecnadyne</h2>
+                        <div class="wrapper" align="center"><img src="../resources/tecnadyne.gif" class="img-responsive" width="300" style="text-align:center"></div>
+                        <br>
+
+                        <h2 align="center">Indian Institute of Technology Kharagpur</h2>
+                        <div class="wrapper" align="center"><img src="../resources/iitkgp.png" class="img-responsive" width="150"></div>
+                    </div>
+                </div>
+
+                <div class="col-md-3">
                     <div class="well">
                         <h1>ABOUT US</h1>
-                        The IIT Kharagpur Autonomous Underwater Vehicle Team (iKAT) is a student group working in the field of autonomous underwater robotics. We design and build Autonomous Underwater Vehicles for research and competitive purposes.
+                        <p>
+                            The IIT Kharagpur Autonomous Underwater Vehicle Team (Team AUV) is a student group working in the field of 
+                            autonomous underwater robotics. We design and build fully autonomous underwater robots for research and 
+                            competitive purposes. 
+                        </p>
                     </div>
                     <a class="twitter-timeline" href="https://twitter.com/IITKGPAUV" data-widget-id="439755179924021248">
                         <small><strong>TWEETS BY @IITKGPAUV</strong></small>
@@ -87,4 +105,4 @@
         });
 
     </script>
-<
+</html>

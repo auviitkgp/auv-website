@@ -155,16 +155,70 @@
                         <div class="well well-lg">
                             <h1>SOFTWARE</h1>
                             <p>
-                            Held since 2006, SAUC-E challenges the next generation of engineers to design and build an autonomous underwater vehicle (AUV) capable of performing realistic missions.  The event is designed to encourage students to think about underwater technology and related applications while fostering innovation and technology. The event is being organized by  NATO Undersea Research Centre.
+                                We have followed the modular approach in making our software which helps us in tuning and testing the 
+                                capabilities and tasks separately. ROS (Robot operating system) have been adopted for software development 
+                                and synchronization ROS works on publisher subscriber based architecture by mean of message passing. 
+                                Different packages have been built on ROS Stack. ROS helped us to develop modular software with different 
+                                tasks kept at different ROS nodes. All the nodes have categorized in 4 different type of nodes.
                             </p>
-                            <img src="../resources/sauce_arena.jpg" width="500">
+                            <ul>
+                                <li>Control and Movement</li>
+                                <li>Image Processing</li>
+                                <li>Task Planner</li>
+                                <li>Sensor Data Acquisition</li>
+                            </ul>
+                            <img src="../resources/overview_soft1.png" class="img-responsive" width="500px">
+                            <h3>Control and Movement</h3>
+                            <p>
+                                In this first module basic maneuvering functions are written for forward, turn and heave. The Forward 
+                                function has code for heading control for which it interacts with the sensors interfacing module. We have 
+                                implemented a PID controller to achieve proper forward motion. It accepts positive value for forward motion 
+                                and nega value for reverse motion. The Turn function implements a self-designed control strategy to get 
+                                accurate turns. Here theta value is obtained from magnetic heading value from the IMU. This function 
+                                accepts positive value for Counter Clockwise turn and negative for Clockwise turn. For control, the 
+                                software uses simple and effective heuristic algorithms on top of classic Proportional Integral Derivative 
+                                (PID) controller.<br>
+                                For navigation system is dependent on AHRS implementation. In this application, the IMU is used only to 
+                                measure vehicle attitude (roll, pitch, and possibly heading). Sensors like a pendulum pot measure roll and 
+                                pitch, but have a relatively narrow response. User friendly graphical interface has been created for debugging 
+                                and visualization purpose
+                            </p>    
+                            <img src="../resources/overview_soft2.png" class="img-responsive" width="500px"><br>
+                            <p>
+                                The images are acquired from the cameras using the camera interfacing nodes. These images are then thresholded 
+                                using their HSV (Hue Saturation Value) values. HSV values for objects and markers are pre-calibrated and 
+                                using the thresholding the similar color objects are isolated and filtered by shape and size constraints.<br> 
+                                GUI has been developed to pre-calibrate the thresholding values and check the output of the applied 
+                                filters and various constraints. Once, a suitable fit is obtained, parameters like centroid and 
+                                orientation are sent back to Task Planner module to generate the appropriate control commands.<br>
+                                Underwater Images suffer from Non Uniform Lighting, Low Contrast and Diminished Colors Image enhancement 
+                                techniques were used to overcome degraded image.
+                            </p>
+                            <img src="../resources/overview_soft3.png" class="img-responsive" width="500px"><br>
+                            <p>
+                                This module knows about the different tasks to be performed in the full mission and the sequence of the 
+                                occurrence This module calls the appropriate image processing function to isolate either a buoy, marker, 
+                                L shaped obstacle, etc as per the task to be done. After getting the values of centroid and orientation, 
+                                control commands are generated and control module executes the motion while getting feedback from the 
+                                sensor module. An intelligent algorithm is required to perform each task task successful. A typical flow 
+                                for path marker following is given in ().
+                            </p>
+                            <img src="../resources/overview_soft4.png" class="img-responsive" width="500px"><br>
+                            <p>
+                                Task planner is also responsible for managing run time in most efficient way. A timeout is set for each 
+                                task during a single mission run.
+                            </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-2">
                     <div class="well">
                         <h1>ABOUT US</h1>
-                        The IIT Kharagpur Autonomous Underwater Vehicle Team (iKAT) is a student group working in the field of autonomous underwater robotics. We design and build Autonomous Underwater Vehicles for research and competitive purposes.
+                            <p>
+                                The IIT Kharagpur Autonomous Underwater Vehicle Team (Team AUV) is a student group working in the field of 
+                                autonomous underwater robotics. We design and build fully autonomous underwater robots for research and 
+                                competitive purposes. 
+                            </p>
                     </div>
                     <a class="twitter-timeline" href="https://twitter.com/IITKGPAUV" data-widget-id="439755179924021248">
                         <small><strong>TWEETS BY @IITKGPAUV</strong></small>

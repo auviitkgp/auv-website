@@ -80,10 +80,10 @@
                           <img alt="" src="resources/carousel/auv4.jpg">
                           <div class="carousel-caption">
                             <h4>
-                              First Thumbnail label
+                              KRAKEN 2.0
                             </h4>
                             <p>
-                              Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+                              Second version of Kraken with new chassis.
                             </p>
                           </div>
                         </div>
@@ -91,10 +91,10 @@
                           <img alt="" src="resources/carousel/auv.jpg">
                           <div class="carousel-caption">
                             <h4>
-                              Second Thumbnail label
+                              KRAKEN 1.0
                             </h4>
                             <p>
-                              Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+                              Kraken 1.0 during actual run.
                             </p>
                           </div>
                         </div>
@@ -102,10 +102,10 @@
                           <img alt="" src="resources/carousel/auv2.jpg">
                           <div class="carousel-caption">
                             <h4>
-                              Third Thumbnail label
+                              KRAKEN 1.0
                             </h4>
                             <p>
-                              Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+                              The first version of Kraken with torpedo shaped hull.
                             </p>
                           </div>
                         </div>
@@ -113,10 +113,10 @@
                           <img alt="" src="resources/carousel/auv3.jpg">
                           <div class="carousel-caption">
                             <h4>
-                              Second Thumbnail label
+                              KRAKEN 1.0
                             </h4>
                             <p>
-                              Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+                              Kraken 1.0 during actual run.
                             </p>
                           </div>
                         </div>
@@ -186,7 +186,9 @@
                 <div class="col-md-3 col-md-offset-1" style="margin-top:30px">
                     <div class="well well-lg">
                         <h2 style="border-bottom:1px solid #000000">ABOUT US</h2>
-                            The IIT Kharagpur Autonomous Underwater Vehicle Team (iKAT) is a student group working in the field of autonomous underwater robotics. We design and build Autonomous Underwater Vehicles for research and competitive purposes. <br><br>
+                            The IIT Kharagpur Autonomous Underwater Vehicle Team (Team AUV) is a student group working in the field of 
+                            autonomous underwater robotics. We design and build fully autonomous underwater robots for research and 
+                            competitive purposes. <br><br>
                     </div>
                         <h2  style="border-bottom:1px solid #000000"> TWITTER FEED</h2>
                     <a class="twitter-timeline" href="https://twitter.com/IITKGPAUV" data-widget-id="439755179924021248">
