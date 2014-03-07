@@ -27,7 +27,7 @@
                 <li><a href="sponsors.php">Sponsors</a></li>
                 <li><a href="gallery.php">Gallery</a></li>
                 <li><a href="contact.php">Contact Us</a></li>
-                <li><a href="http://auv-iitkgp.ac.in/blog">Blog</a></li>
+                <li><a href="http://auv-iitkgp.in/blog">Blog</a></li>
 
                 </li>
             </ul>

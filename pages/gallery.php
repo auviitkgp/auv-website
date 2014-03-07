@@ -4,9 +4,9 @@
         <meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
         <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-        <title>Sponsors | AUV Team, IIT Kharagpur</title>
+        <title>Gallery | AUV Team, IIT Kharagpur</title>
         <meta name="description" content="Overview | AUV Team, IIT Kharagpur" />
-        <meta name="keywords" content="Sponsors, Sponsorship, AUV, Autonomous, Underwater, Vehicle, Team, IIT, IIT Kharagpur, Kharagpur"/>
+        <meta name="keywords" content="Gallery, Images, AUV, Autonomous, Underwater, Vehicle, Team, IIT, IIT Kharagpur, Kharagpur"/>
         <link href="../font-awesome/css/font-awesome.min.css" rel="stylesheet">
         <link rel="shortcut icon" href="../resources/favicon.ico" type="image/x-icon"> 
         
@@ -26,33 +26,14 @@
             changeActive(1);
         </script>
         <div class = "container" style="margin-top:70px;">
-            <h1 style="text-align:center;">SPONSORS</h1>
+            <h1 style="text-align:center;">GALLERY</h1>
             <div class="row">
                 <div class="col-md-1"></div>
                 <div class="col-md-8">
                     <div id ="sponsors" class="well well-lg">
-                        <p>
-    						To achieve success in our goal team rely of generous support of our sponsors. Your kind donation will help us in purchasing costly sensor, hardware and fabrication of AUV. Sponsorship money will also support us in participating in International ROBOSUB Competition to be held in San Diego, USA(Travel support for team members).We would like to thank our sponsors for supporting the technological development in underwater Robotics . We will ensure to provide special benefits to our sponsor and would like to continue long term association.
-                        </p>
-                        <h3>Why Sponsor Us?</h3>
-                        <ul>
-                            <li>Promoting robotics research among undergraduate students.</li>
-                            <li>We are one of the 4 Indian Teams which participates in international ROBOSUB, held at San Diego each year.</li>
-                            <li>The team was winner of SAVe 2011(student AUV competition) organized by NIOT, ministry of earth sciences.</li>
-                            <li>AUV shall be a big boost to your Corporate Social Responsibility, for supporting and nurturing a national level team which represents our country internationally.</li>
-                        </ul>
-                        <h3>Sponsorship Benefits</h3>
-                        <ul>
-                            <li>Company visibility at the AUVSI/ONR ROBOSUB competition</li>
-                            <li>Special Distinction in media coverage</li>
-                            <li>Company logo on competition vehicle and posters</li>
-                            <li>Company information and logo on the website</li>
-                            <li>Company name on the team uniform</li>
-                            <li>An Asscociation with IIT Kharagpur</li>
-                            <li>Recognition in time to time workshops and exhibitions by team at notable events such as the Alumni meet.</li>
-                        </ul>
-                        <br>
-                        <b><p style="text-align:center">If you would like to sponsor us with equipment, sensors or cash sponsorship, do drop us an email at ikat.kgp@gmail.com</p></b>
+                        <h1 style="text-align:center"><small>
+                            A team of trained monkeys have been assigned to search for the missing images.<br>Try again soon!
+                        </small></h1>
                     </div>
                     </div>
 

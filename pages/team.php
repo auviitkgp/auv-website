@@ -4,9 +4,9 @@
         <meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
         <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-        <title>Contacts | AUV Team, IIT Kharagpur</title>
+        <title>Team | AUV Team, IIT Kharagpur</title>
         <meta name="description" content="Contacts | AUV Team, IIT Kharagpur" />
-        <meta name="keywords" content="Contacts, AUV, Autonomous, Underwater, Vehicle, Team, IIT, IIT Kharagpur, Kharagpur"/>
+        <meta name="keywords" content="Team, Members, AUV, Autonomous, Underwater, Vehicle, Team, IIT, IIT Kharagpur, Kharagpur"/>
         <link href="../font-awesome/css/font-awesome.min.css" rel="stylesheet">
         <link rel="shortcut icon" href="../resources/favicon.ico" type="image/x-icon"> 
         
@@ -46,7 +46,11 @@
                             </div>
                             <div class="col-md-6">
                                 <blockquote>
-                                    <p>Dr. C.S. Kumar</p> <small><cite title="Source Title">Assistant Professor, Dept. of Mechanical Engineering</cite></small>
+                                    <p>
+                                        <a href="http://iitkgp.ac.in/fac-profiles/showprofile.php?empcode=aWmdU">
+                                        Dr. C.S. Kumar
+                                        </a>
+                                    </p> <small><cite title="Source Title">Assistant Professor, Dept. of Mechanical Engineering</cite></small>
                                 </blockquote>
                                 <p style="font-size:12px;"> <i class="fa fa-envelope"> kumar @ mech.iitkgp.ernet.in</i> 
                                 </br><i class="fa fa-phone"> +91 - 3222 - 282934</i></p> 
@@ -142,7 +146,7 @@
                             </div>
                             <div class="col-md-4" style="padding-right:0px;">
                                 <blockquote>
-                                    <p>Karnam Sai Raji Teja</p> <small><cite title="Source Title">Electrical Engg</cite></small>
+                                    <p>Karanam Sai Ravi Teja</p> <small><cite title="Source Title">Electrical Engg</cite></small>
                                 </blockquote>
                                 <!--p style="font-size:12px;"> <i class="fa fa-envelope"> vinayyadav3016@gmail.com</i> 
                                 </br><i class="fa fa-phone"> +91 - 3222 - 282934</i> </p-->
