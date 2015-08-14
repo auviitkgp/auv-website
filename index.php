@@ -6,12 +6,12 @@
 <!--[if gt IE 9]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
     <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>Home | Team AUV, IIT Kharagpur</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Home | AUV Team, IIT Kharagpur<" />
     <meta name="keywords" content="Home, AUV, Autonomous, Underwater, Vehicle, Team, IIT, IIT Kharagpur, Kharagpur" />
-    <link rel="shortcut icon" href="resources/favicon.ico" type="image/x-icon"> 
+    <link rel="shortcut icon" href="resources/favicon.ico" type="image/x-icon">
 
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
@@ -130,54 +130,54 @@
                 <div class="col-md-8">
                     <h2 style="border-bottom:1px solid #000000">Team AUV - IIT Kharagpur</h2><br>
                     <div class="well well-lg">
-                        <p>    
+                        <p>
                             Our team consists of 20 undergraduate students form multi disciplines. Our prime objective is to
 
-                            take part in the annual AUVSI ROBOSUB held in San Diego, California. This competition provides an 
+                            take part in the annual AUVSI ROBOSUB held in San Diego, California. This competition provides an
 
-                            opportunity for teams and industries across the globe to showcase their capabilities in underwater 
+                            opportunity for teams and industries across the globe to showcase their capabilities in underwater
 
-                            robotics. As part of the competition, a team is supposed to build and design a fully functional AUV 
+                            robotics. As part of the competition, a team is supposed to build and design a fully functional AUV
 
-                            which entails designing and manufacturing robust systems in the domains of mechanical, electrical and 
+                            which entails designing and manufacturing robust systems in the domains of mechanical, electrical and
 
-                            software engineering. Being a part of Team AUV, the team members apply their conceptual understanding 
+                            software engineering. Being a part of Team AUV, the team members apply their conceptual understanding
 
                             and creativity in multiple dimensions of engineering.
                         </p>
                     </div>
                     <div class="well well-lg">
                         <h2 style="border-bottom:1px solid #000000">Team History</h2><br>
-                        <p>    
-                            TEAM AUV traces its origin to December, 2010 when a group of students from varied engineering 
+                        <p>
+                            TEAM AUV traces its origin to December, 2010 when a group of students from varied engineering
 
-                            streams like computer science, electrical, mechanical and ocean engineering came together to deploy 
+                            streams like computer science, electrical, mechanical and ocean engineering came together to deploy
 
-                            their skills . Since then, we have been involved in the development of autonomous underwater vehicles 
+                            their skills . Since then, we have been involved in the development of autonomous underwater vehicles
 
-                            (AUVs). Our insight into the challenges of underwater navigation like depth pressure, water leakage, 
+                            (AUVs). Our insight into the challenges of underwater navigation like depth pressure, water leakage,
 
-                            buoyancy and stability related issues, poor underwater lightning etc. helped us to come up with efficient 
+                            buoyancy and stability related issues, poor underwater lightning etc. helped us to come up with efficient
 
-                            solutions. 
+                            solutions.
 
-                            The team thus developed its first vehicle ‘Kraken 1.0’ in June 2011, overcoming hurdles like cost, 
+                            The team thus developed its first vehicle ‘Kraken 1.0’ in June 2011, overcoming hurdles like cost,
 
-                            manufacturability, efficient design and limited time. We then went on to win the first ever national 
+                            manufacturability, efficient design and limited time. We then went on to win the first ever national
 
-                            event on AUVs at NIOT and participated in the 14th international AUVSI ROBOSUB Competition in San 
+                            event on AUVs at NIOT and participated in the 14th international AUVSI ROBOSUB Competition in San
 
-                            Diego, USA. As a first time participant, the team matched up to more established teams and cleared 
+                            Diego, USA. As a first time participant, the team matched up to more established teams and cleared
 
-                            the qualifying round. The performance and efforts of the team were recognized and appreciated by 
+                            the qualifying round. The performance and efforts of the team were recognized and appreciated by
 
-                            the judges. As a technology and innovation driven team, we are determined to develop cutting-edge 
+                            the judges. As a technology and innovation driven team, we are determined to develop cutting-edge
 
-                            technology to overcome challenges and perform better. With better resources, experience and the able 
+                            technology to overcome challenges and perform better. With better resources, experience and the able
 
-                            guidance of the research group involved in the development of the very first AUV of India, the team 
+                            guidance of the research group involved in the development of the very first AUV of India, the team
 
-                            is working with zeal and enthusiasm to surpass the achievements of previous years. Team is presently 
+                            is working with zeal and enthusiasm to surpass the achievements of previous years. Team is presently
 
                             developing AUV for coming ROBOSUB 2014.
                         </p>
@@ -186,8 +186,8 @@
                 <div class="col-md-3 col-md-offset-1" style="margin-top:30px">
                     <div class="well well-lg">
                         <h2 style="border-bottom:1px solid #000000">ABOUT US</h2>
-                            The IIT Kharagpur Autonomous Underwater Vehicle Team (Team AUV) is a student group working in the field of 
-                            autonomous underwater robotics. We design and build fully autonomous underwater robots for research and 
+                            The IIT Kharagpur Autonomous Underwater Vehicle Team (Team AUV) is a student group working in the field of
+                            autonomous underwater robotics. We design and build fully autonomous underwater robots for research and
                             competitive purposes. <br><br>
                     </div>
                         <h2  style="border-bottom:1px solid #000000"> TWITTER FEED</h2>
@@ -198,15 +198,8 @@
                 </div>
             </div>
 				</div>
-				<hr>
-        <div id="footer" class="col-md-12">
-            <footer class="footer container-fluid text-center">
-                <p class="text-muted credit">
-                    ©2014 IIT Kharagpur - AUV Team
-                </p>
-            </footer>
-        </div>
       </div>
+      <?php include 'footer.php' ?>
 </body>
 
 <script>

@@ -2,14 +2,14 @@
 <html lang="en" class="no-js">
     <head>
         <meta charset="UTF-8" />
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
-        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Gallery | Team AUV, IIT Kharagpur</title>
         <meta name="description" content="Overview | AUV Team, IIT Kharagpur" />
         <meta name="keywords" content="Gallery, Images, AUV, Autonomous, Underwater, Vehicle, Team, IIT, IIT Kharagpur, Kharagpur"/>
         <link href="../font-awesome/css/font-awesome.min.css" rel="stylesheet">
-        <link rel="shortcut icon" href="../resources/favicon.ico" type="image/x-icon"> 
-        
+        <link rel="shortcut icon" href="../resources/favicon.ico" type="image/x-icon">
+
         <link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
         <link rel="stylesheet" type="text/css" href="../css/component.css" />
 
@@ -41,9 +41,9 @@
                     <div class="well">
                         <h1>ABOUT US</h1>
                         <p>
-                            The IIT Kharagpur Autonomous Underwater Vehicle Team (Team AUV) is a student group working in the field of 
-                            autonomous underwater robotics. We design and build fully autonomous underwater robots for research and 
-                            competitive purposes. 
+                            The IIT Kharagpur Autonomous Underwater Vehicle Team (Team AUV) is a student group working in the field of
+                            autonomous underwater robotics. We design and build fully autonomous underwater robots for research and
+                            competitive purposes.
                         </p>
                     </div>
                     <a class="twitter-timeline" href="https://twitter.com/IITKGPAUV" data-widget-id="439755179924021248">
@@ -56,6 +56,7 @@
                 </div>
             </div>
         </div>
+        <?php include '../footer.php' ?>
     </body>
     <script>
     $('body').on('hidden.bs.modal', '.modal', function () {
