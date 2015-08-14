@@ -197,10 +197,11 @@
                     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
                 </div>
             </div>
-        </div>
+				</div>
+				<hr>
         <div id="footer" class="col-md-12">
-            <footer class="footer container-fluid">
-                <p class="muted credit">
+            <footer class="footer container-fluid text-center">
+                <p class="text-muted credit">
                     ©2014 IIT Kharagpur - AUV Team
                 </p>
             </footer>
