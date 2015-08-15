@@ -22,6 +22,7 @@
                     <li><a href="overview.php#electrical">Electrical Overview</a></li>
                     <li><a href="overview.php#software">Software Overview</a></li>
                 </ul>
+                <li><a href="auvtestbed.php">AUV Test Bed</a></li>
                 <li><a href="team.php">Team</a></li>
                 <li><a href="competitions.php">Competitions</a></li>
                 <li><a href="sponsors.php">Sponsors</a></li>
